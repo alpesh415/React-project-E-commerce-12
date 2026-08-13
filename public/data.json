@@ -1,0 +1,678 @@
+{
+  "hero": {
+    "title": "Indian Terrain",
+    "subtitle": "Discover Premium Men's Fashion",
+    "description": "Shop the latest collection of shirts, trousers, t-shirts, and more",
+    "ctaText": "Shop Now",
+    "ctaLink": "/collections/all",
+    "backgroundImage": "https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?w=1920&h=800&fit=crop"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "Shirts",
+      "productCount": 948,
+      "link": "/collections/mens-shirts",
+      "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=400&h=500&fit=crop"
+    },
+    {
+      "id": 2,
+      "name": "T-shirts",
+      "productCount": 187,
+      "link": "/collections/mens-t-shirts",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=500&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "Trousers",
+      "productCount": 220,
+      "link": "/collections/mens-trousers",
+      "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&h=500&fit=crop"
+    },
+    {
+      "id": 4,
+      "name": "Denims",
+      "productCount": 117,
+      "link": "/collections/mens-jeans",
+      "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&h=500&fit=crop"
+    }
+  ],
+  "products": [
+  {
+    "id": 1001,
+    "name": "Men Brooklyn Fit Cotton Stretch Trouser",
+    "price": 2499,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&h=500&fit=crop",
+    "category": "Trousers"
+  },
+  {
+    "id": 1002,
+    "name": "Men Solid Full Sleeve Cotton Stretch Shirt",
+    "price": 1999,
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=400&h=500&fit=crop",
+    "category": "Shirts"
+  },
+  {
+    "id": 1003,
+    "name": "Men Urban Fit Cotton Stretch Trouser",
+    "price": 2299,
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=400&h=500&fit=crop",
+    "category": "Trousers"
+  },
+  {
+    "id": 1004,
+    "name": "Men Solid Cotton Shorts",
+    "price": 1499,
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=400&h=500&fit=crop",
+    "category": "Shorts"
+  },
+  {
+    "id": 1005,
+    "name": "Men Brooklyn Fit Linen Blend Trouser",
+    "price": 2799,
+    "image": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=400&h=500&fit=crop",
+    "category": "Trousers"
+  },
+  {
+    "id": 1006,
+    "name": "Men Solid Polo T-Shirt",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=500&fit=crop",
+    "category": "T-shirts"
+  },
+  {
+    "id": 1007,
+    "name": "Men Solid Full Sleeve Linen Shirt",
+    "price": 2199,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop",
+    "category": "Shirts"
+  },
+  {
+    "id": 1008,
+    "name": "Men Slim Fit Denim Jeans",
+    "price": 2999,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&h=500&fit=crop",
+    "category": "Denims"
+  }
+],
+  "flyingOffShelf": [
+  {
+    "id": 8001,
+    "name": "MEN SOLID FULL SLEEVE COTTON STRETCH S...",
+    "image": "https://www.indianterrain.com/cdn/shop/files/ITMSH05399LS-Aqua_02.jpg?v=1707619240&width=600",
+    "originalPrice": 2299,
+    "salePrice": 2155,
+    "discount": 6,
+    "gstSavings": "Save additional 6.25% GST on MRP"
+  },
+  {
+    "id": 8002,
+    "name": "MEN SOLID COTTON SHORTS",
+    "image": "https://www.indianterrain.com/cdn/shop/files/ITMSO00249_Darkgrey_02.jpg?v=1707624263&width=1000",
+    "originalPrice": 1999,
+    "salePrice": 937,
+    "discount": 53,
+    "gstSavings": "Save additional 6.25% GST on MRP"
+  },
+  {
+    "id": 8003,
+    "name": "MEN URBAN FIT COTTON STRETCH TROUSER",
+    "image": "https://www.indianterrain.com/cdn/shop/files/ITMTR01170-Black_02.jpg?v=1707629829&width=600",
+    "originalPrice": 2599,
+    "salePrice": 2437,
+    "discount": 6,
+    "gstSavings": "Save additional 6.25% GST on MRP"
+  },
+  {
+    "id": 8004,
+    "name": "MEN BROOKLYN FIT COTTON STRETCH TROU...",
+    "image": "https://www.indianterrain.com/cdn/shop/files/ITMTR01138-Black_02.jpg?v=1718950562&width=600",
+    "originalPrice": 2099,
+    "salePrice": 1349,
+    "discount": 50,
+    "gstSavings": "Save additional 6.25% GST on MRP"
+  },
+  {
+    "id": 8005,
+    "name": "MEN SOLID FULL SLEEVE COTTON STRETCH S...",
+    "image": "https://www.indianterrain.com/cdn/shop/files/ITMTR00715_BROWN_02.jpg?v=1707627534&width=1000",
+    "originalPrice": 2299,
+    "salePrice": 2155,
+    "discount": 6,
+    "gstSavings": "Save additional 6.25% GST on MRP"
+  },
+  {
+    "id": 8006,
+    "name": "MEN SOLID COTTON SHORTS",
+    "image": "https://www.indianterrain.com/cdn/shop/files/ITMSH05398LS-Burgundy_01.jpg?v=1741240019&width=600",
+    "originalPrice": 1999,
+    "salePrice": 937,
+    "discount": 53,
+    "gstSavings": "Save additional 6.25% GST on MRP"
+  }
+],
+ "lookbook": [
+  {
+    "id": 9001,
+    "category": "Shirts",
+    "items": [
+      {
+        "id": 9101,
+        "name": "Checked Shirts",
+        "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=400&h=500&fit=crop",
+        "link": "/collections/checked-shirts"
+      },
+      {
+        "id": 9102,
+        "name": "Printed Shirts",
+        "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop",
+        "link": "/collections/printed-shirts"
+      },
+      {
+        "id": 9103,
+        "name": "Solid Shirts",
+        "image": "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=400&h=500&fit=crop",
+        "link": "/collections/solid-shirts"
+      },
+      {
+        "id": 9104,
+        "name": "Striped Shirts",
+        "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=400&h=500&fit=crop",
+        "link": "/collections/striped-shirts"
+      }
+    ]
+  },
+  {
+    "id": 9002,
+    "category": "Bottom Wear",
+    "items": [
+      {
+        "id": 9201,
+        "name": "Trousers",
+        "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&h=500&fit=crop",
+        "link": "/collections/trousers"
+      },
+      {
+        "id": 9202,
+        "name": "Jeans",
+        "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&h=500&fit=crop",
+        "link": "/collections/jeans"
+      },
+      {
+        "id": 9203,
+        "name": "Joggers",
+        "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=400&h=500&fit=crop",
+        "link": "/collections/joggers"
+      },
+      {
+        "id": 9204,
+        "name": "Shorts",
+        "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=400&h=500&fit=crop",
+        "link": "/collections/shorts"
+      }
+    ]
+  },
+  {
+    "id": 9003,
+    "category": "T-shirts",
+    "items": [
+      {
+        "id": 9301,
+        "name": "Crew Necks",
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=500&fit=crop",
+        "link": "/collections/crew-necks"
+      },
+      {
+        "id": 9302,
+        "name": "Henleys",
+        "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=400&h=500&fit=crop",
+        "link": "/collections/henleys"
+      },
+      {
+        "id": 9303,
+        "name": "Polos",
+        "image": "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?w=400&h=500&fit=crop",
+        "link": "/collections/polos"
+      }
+    ]
+  },
+  {
+    "id": 9004,
+    "category": "Layers",
+    "items": [
+      {
+        "id": 9401,
+        "name": "Jackets",
+        "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400&h=500&fit=crop",
+        "link": "/collections/jackets"
+      },
+      {
+        "id": 9402,
+        "name": "Sweaters",
+        "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=400&h=500&fit=crop",
+        "link": "/collections/sweaters"
+      },
+      {
+        "id": 9403,
+        "name": "Sweatshirts",
+        "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=400&h=500&fit=crop",
+        "link": "/collections/sweatshirts"
+      }
+    ]
+  }
+],
+ "newArrivals": [
+  {
+    "id": 1001,
+    "name": "Men Solid Full Sleeve Cotton Stretch Shirt",
+    "price": 2299,
+    "salePrice": 1999,
+    "discount": 13,
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 1002,
+    "name": "Men Checked Casual Shirt",
+    "price": 2499,
+    "salePrice": 2199,
+    "discount": 12,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 1003,
+    "name": "Men Slim Fit Denim Jeans",
+    "price": 2999,
+    "salePrice": 2499,
+    "discount": 17,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 1004,
+    "name": "Men Cotton Polo T-Shirt",
+    "price": 1299,
+    "salePrice": 999,
+    "discount": 23,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 1005,
+    "name": "Men Brooklyn Fit Cotton Trouser",
+    "price": 2599,
+    "salePrice": 2199,
+    "discount": 15,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 1006,
+    "name": "Men Printed Casual Shirt",
+    "price": 2199,
+    "salePrice": 1899,
+    "discount": 14,
+    "image": "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 1007,
+    "name": "Men Cotton Shorts",
+    "price": 1499,
+    "salePrice": 1199,
+    "discount": 20,
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 1008,
+    "name": "Men Linen Blend Shirt",
+    "price": 2799,
+    "salePrice": 2399,
+    "discount": 14,
+    "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=400&h=500&fit=crop"
+  }
+],
+
+"shirts": [
+  {
+    "id": 2001,
+    "name": "Men Solid Full Sleeve Cotton Stretch Shirt",
+    "price": 2299,
+    "salePrice": 1999,
+    "discount": 13,
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 2002,
+    "name": "Men Checked Casual Shirt",
+    "price": 2499,
+    "salePrice": 2199,
+    "discount": 12,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 2003,
+    "name": "Men Printed Casual Shirt",
+    "price": 2199,
+    "salePrice": 1899,
+    "discount": 14,
+    "image": "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 2004,
+    "name": "Men Linen Blend Shirt",
+    "price": 2799,
+    "salePrice": 2399,
+    "discount": 14,
+    "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 2005,
+    "name": "Men Striped Formal Shirt",
+    "price": 2599,
+    "salePrice": 2299,
+    "discount": 12,
+    "image": "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 2006,
+    "name": "Men Denim Shirt",
+    "price": 2399,
+    "salePrice": 1999,
+    "discount": 17,
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 2007,
+    "name": "Men White Formal Shirt",
+    "price": 1999,
+    "salePrice": 1699,
+    "discount": 15,
+    "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 2008,
+    "name": "Men Blue Casual Shirt",
+    "price": 2199,
+    "salePrice": 1899,
+    "discount": 14,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 2009,
+    "name": "Men Black Formal Shirt",
+    "price": 2299,
+    "salePrice": 1999,
+    "discount": 13,
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 2010,
+    "name": "Men Grey Casual Shirt",
+    "price": 2099,
+    "salePrice": 1799,
+    "discount": 14,
+    "image": "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 2011,
+    "name": "Men Green Linen Shirt",
+    "price": 2699,
+    "salePrice": 2299,
+    "discount": 15,
+    "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 2012,
+    "name": "Men Maroon Casual Shirt",
+    "price": 2199,
+    "salePrice": 1899,
+    "discount": 14,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop"
+  }
+],
+ "bottomWear": [
+  {
+    "id": 3001,
+    "name": "Men Brooklyn Fit Cotton Trouser",
+    "price": 2599,
+    "salePrice": 2199,
+    "discount": 15,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 3002,
+    "name": "Men Slim Fit Denim Jeans",
+    "price": 2999,
+    "salePrice": 2499,
+    "discount": 17,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 3003,
+    "name": "Men Cotton Shorts",
+    "price": 1499,
+    "salePrice": 1199,
+    "discount": 20,
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 3004,
+    "name": "Men Urban Fit Trouser",
+    "price": 2399,
+    "salePrice": 1999,
+    "discount": 17,
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 3005,
+    "name": "Men Cargo Pants",
+    "price": 2799,
+    "salePrice": 2399,
+    "discount": 14,
+    "image": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 3006,
+    "name": "Men Black Denim Jeans",
+    "price": 2899,
+    "salePrice": 2399,
+    "discount": 17,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 3007,
+    "name": "Men Khaki Chinos",
+    "price": 2499,
+    "salePrice": 2099,
+    "discount": 16,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 3008,
+    "name": "Men Navy Blue Trouser",
+    "price": 2599,
+    "salePrice": 2199,
+    "discount": 15,
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 3009,
+    "name": "Men Jogger Pants",
+    "price": 1999,
+    "salePrice": 1699,
+    "discount": 15,
+    "image": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 3010,
+    "name": "Men Beige Chinos",
+    "price": 2399,
+    "salePrice": 1999,
+    "discount": 17,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&h=500&fit=crop"
+  }
+],
+ "festiveEdit": [
+  {
+    "id": 4001,
+    "name": "Men Festive Kurta Shirt",
+    "price": 3299,
+    "salePrice": 2799,
+    "discount": 15,
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 4002,
+    "name": "Men Ethnic Print Shirt",
+    "price": 2999,
+    "salePrice": 2499,
+    "discount": 17,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 4003,
+    "name": "Men Silk Blend Shirt",
+    "price": 3499,
+    "salePrice": 2999,
+    "discount": 14,
+    "image": "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 4004,
+    "name": "Men Festive Trouser",
+    "price": 2799,
+    "salePrice": 2399,
+    "discount": 14,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 4005,
+    "name": "Men Designer Kurta",
+    "price": 3799,
+    "salePrice": 3199,
+    "discount": 16,
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 4006,
+    "name": "Men Embroidered Shirt",
+    "price": 3299,
+    "salePrice": 2799,
+    "discount": 15,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop"
+  }
+],
+ "plusSize": [
+  {
+    "id": 801,
+    "name": "Men Plus Size Cotton Shirt",
+    "price": 2499,
+    "salePrice": 2099,
+    "discount": 16,
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 802,
+    "name": "Men Plus Size Trouser",
+    "price": 2799,
+    "salePrice": 2399,
+    "discount": 14,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 803,
+    "name": "Men Plus Size Polo T-Shirt",
+    "price": 1499,
+    "salePrice": 1199,
+    "discount": 20,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 804,
+    "name": "Men Plus Size Denim Jeans",
+    "price": 3199,
+    "salePrice": 2699,
+    "discount": 16,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 805,
+    "name": "Men Plus Size Casual Shirt",
+    "price": 2399,
+    "salePrice": 1999,
+    "discount": 17,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 806,
+    "name": "Men Plus Size Chinos",
+    "price": 2699,
+    "salePrice": 2299,
+    "discount": 15,
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=400&h=500&fit=crop"
+  }
+],
+
+"festiveSale": [
+  {
+    "id": 901,
+    "name": "Men Sale Cotton Shirt",
+    "price": 2299,
+    "salePrice": 1149,
+    "discount": 50,
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 902,
+    "name": "Men Sale Denim Jeans",
+    "price": 2999,
+    "salePrice": 1499,
+    "discount": 50,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 903,
+    "name": "Men Sale Trouser",
+    "price": 2599,
+    "salePrice": 1299,
+    "discount": 50,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 904,
+    "name": "Men Sale Polo T-Shirt",
+    "price": 1299,
+    "salePrice": 649,
+    "discount": 50,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 905,
+    "name": "Men Sale Casual Shirt",
+    "price": 2199,
+    "salePrice": 1099,
+    "discount": 50,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 906,
+    "name": "Men Sale Shorts",
+    "price": 1499,
+    "salePrice": 749,
+    "discount": 50,
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 907,
+    "name": "Men Sale Chinos",
+    "price": 2499,
+    "salePrice": 1249,
+    "discount": 50,
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=400&h=500&fit=crop"
+  },
+  {
+    "id": 908,
+    "name": "Men Sale Linen Shirt",
+    "price": 2799,
+    "salePrice": 1399,
+    "discount": 50,
+    "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=400&h=500&fit=crop"
+  }
+]
+}
